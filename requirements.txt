@@ -1,0 +1,12 @@
+tensorflow==2.2.0
+pandas==1.0.3
+numpy==1.18.4
+spatial==0.2.0
+matplotlib==3.2.1
+sklearn==0.0
+spacy==2.2.4
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
+nltk==3.5
+beautifulsoup4==4.9.0
+Markdown==3.2.1
+seaborn==0.10.1
